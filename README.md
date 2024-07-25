@@ -49,5 +49,5 @@ Este repositorio está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LIC
 
 ## Contacto
 
-Para cualquier consulta, por favor contacta a [tu_email@example.com](mailto:tu_email@example.com).
+Para cualquier consulta, por favor contacta a [noel123mch@gmail.com](mailto:noel123mch@gmail.com).
 
