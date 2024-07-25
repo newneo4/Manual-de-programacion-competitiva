@@ -1,4 +1,4 @@
-### Comparación con Ordenación
+## Comparación con Ordenación
 
 A menudo es posible resolver un problema utilizando estructuras de datos o ordenación. A veces hay diferencias notables en la eficiencia real de estos enfoques, que pueden estar ocultas en sus complejidades de tiempo.
 
