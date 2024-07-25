@@ -100,3 +100,7 @@ if (it == s.begin()) {
 ```
 
 El código asume que el conjunto no está vacío y recorre todos los casos posibles usando un iterador it. Primero, el iterador apunta al elemento más pequeño cuyo valor es al menos x. Si es igual a begin, el elemento correspondiente es el más cercano a x. Si es igual a end, el elemento más grande en el conjunto es el más cercano a x. Si ninguno de los casos anteriores se cumple, el elemento más cercano a x es el elemento que corresponde a it o el elemento anterior a it.
+
+## Navegación
+- [Anterior: Estructuras map.md](./Estructuras%20map.md)
+- [Siguiente: Otras estructuras.md](./Otras%20estructuras.md)

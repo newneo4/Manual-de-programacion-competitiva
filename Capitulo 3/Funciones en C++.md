@@ -70,3 +70,6 @@ int k = x + 1;
 ```
 
 Nota que, a diferencia de la búsqueda binaria ordinaria, aquí no se permite que los valores consecutivos de la función sean iguales. En ese caso, no sería posible saber cómo continuar con la búsqueda.
+
+## Navegación
+- [Anterior: Busqueda binaria.md](./Busqueda%20binaria.md)

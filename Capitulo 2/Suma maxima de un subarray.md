@@ -92,3 +92,5 @@ Es interesante estudiar cuán eficientes son los algoritmos en la práctica. La 
 
 La comparación muestra que todos los algoritmos son eficientes cuando el tamaño de la entrada es pequeño, pero los tamaños de entrada más grandes revelan diferencias notables en los tiempos de ejecución de los algoritmos. El Algoritmo 1 se vuelve lento cuando `n = 10⁴`, y el Algoritmo 2 se vuelve lento cuando `n = 10⁵`. Solo el Algoritmo 3 es capaz de procesar incluso las entradas más grandes de manera instantánea.
 
+## Navegación
+- [Anterior: Estimacion de eficiencia.md](./Estimacion%20de%20eficiencia.md)

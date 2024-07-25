@@ -18,3 +18,7 @@ Por otro lado, dado el tamaño de la entrada, podemos intentar adivinar la compl
 Por ejemplo, si el tamaño de la entrada es $n = 10^5$, es probable que se espere que la complejidad temporal del algoritmo sea O($n$) o O($n \log n$). Esta información facilita el diseño del algoritmo, ya que descarta enfoques que producirían un algoritmo con una complejidad temporal peor.
 
 Aún así, es importante recordar que la complejidad temporal es solo una estimación de la eficiencia, ya que oculta los factores constantes. Por ejemplo, un algoritmo que se ejecuta en tiempo O($n$) puede realizar $n/2$ o $5n$ operaciones. Esto tiene un efecto importante en el tiempo de ejecución real del algoritmo.
+
+## Navegación
+- [Anterior: Clases de complejidad.md](./Clases%20de%20complejidad.md)
+- [Siguiente: Suma maxima de un subarray.md](./Suma%20maxima%20de%20un%20subarray.md)

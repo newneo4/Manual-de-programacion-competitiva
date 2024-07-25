@@ -135,4 +135,5 @@ $$
 1 + 2 + 4 + \cdots + 2^{n-1} = 2^n - 1 = O(2^n).
 $$
 
-
+## Navegación
+- [Siguiente: Clases de complejidad.md](./Clases%20de%20complejidad.md)

@@ -21,3 +21,7 @@ g++ -std=c++11 -O2 -Wall test.cpp -o test
 ```
 
 Este comando produce un archivo binario test a partir del código fuente test.cpp. El compilador sigue el estándar C++11 (-std=c++11), optimiza el código (-O2) y muestra advertencias sobre posibles errores (-Wall).
+
+## Navegación
+- [Anterior: Lenguajes de programacion.md](./Lenguajes%20de%20programacion.md)
+- [Siguiente: Input y Output.md](./Input%20y%20Output.md)

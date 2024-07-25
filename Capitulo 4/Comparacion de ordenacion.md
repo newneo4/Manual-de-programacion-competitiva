@@ -152,3 +152,26 @@ Algoritmo 2: 35597 ms
 Algoritmo 3: 19902 ms
 -----------------------------
 ```
+
+### Explicación de la Prueba del Algoritmo
+
+A pesar de que la complejidad teórica del Algoritmo 3 (basado en la ordenación) es \(O(n \log n)\) y la de los Algoritmos 1 y 2 (basados en estructuras de conjuntos) es \(O(n \log n)\) y \(O(n)\) respectivamente, el Algoritmo 3 resulta ser más rápido en la práctica. 
+
+**Razones por las que el Algoritmo 3 es más rápido:**
+
+1. **Eficiencia del Ordenamiento:**
+   - Aunque la complejidad teórica del Algoritmo 3 es \(O(n \log n)\), el proceso de ordenación es bastante eficiente en la práctica debido a las optimizaciones en los algoritmos de ordenamiento como QuickSort y MergeSort que se utilizan en las implementaciones estándar.
+   - Después del paso de ordenación, el algoritmo realiza la comparación en tiempo lineal \(O(n)\), lo que es bastante rápido en comparación con las búsquedas en árboles balanceados o estructuras de conjuntos.
+
+2. **Simplicidad de Implementación:**
+   - El Algoritmo 3 utiliza el enfoque de comparación directa sobre listas ordenadas. La comparación secuencial es generalmente más eficiente que la búsqueda en estructuras de datos complejas como árboles balanceados o tablas hash.
+
+3. **Costo de Mantenimiento de Estructuras:**
+   - En los Algoritmos 1 y 2, especialmente en el Algoritmo 1 que utiliza `std::set`, se mantiene un árbol binario balanceado durante la ejecución del programa. Esto implica un costo adicional en la gestión de la estructura que no está presente en el Algoritmo 3.
+   - El Algoritmo 2, aunque más eficiente que el Algoritmo 1 en términos de complejidad teórica, aún enfrenta el costo de las operaciones de hash y la posible colisión de hash, lo cual puede afectar el rendimiento en prácticas específicas.
+
+En resumen, la combinación de una eficiente ordenación inicial y un proceso de comparación lineal en el Algoritmo 3 ofrece una ventaja práctica significativa sobre los métodos que dependen de estructuras de datos más complejas y costosas en términos de mantenimiento y operaciones.
+
+
+## Navegación
+- [Anterior: Otras estructuras.md](./Otras%20estructuras.md)

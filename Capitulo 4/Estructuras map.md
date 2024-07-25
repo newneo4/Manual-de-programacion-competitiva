@@ -37,3 +37,6 @@ cout << x.first << " " << x.second << "\n";
 }
 ```
 
+## Navegación
+- [Anterior: Estructuras set.md](./Estructuras%20set.md)
+- [Siguiente: Iteradores y rangos.md](./Iteradores%20y%20rangos.md)

@@ -93,3 +93,6 @@ Ahora el vector de strings puede ser ordenado de la siguiente manera:
 sort(v.begin(), v.end(), comp);
 ```
 
+## Navegación
+- [Anterior: Ordenacion.md](./Ordenacion.md)
+- [Siguiente: Busqueda binaria.md](./Busqueda%20binaria.md)

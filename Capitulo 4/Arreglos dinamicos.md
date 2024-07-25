@@ -75,3 +75,7 @@ cout << u << "\n"; // hello world
 cout << u.substr(6, 5) << "\n"; // world
 cout << u.find("world") << "\n"; // 6
 ```
+
+## Navegación
+- [Anterior: Estructuras de datos.md](./Estructuras%20de%20datos.md)
+- [Siguiente: Estructuras set.md](./Estructuras%20set.md)

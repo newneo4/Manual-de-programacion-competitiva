@@ -117,3 +117,7 @@ corresponde al código
 ```cpp
 cout << (3 + 3) * (3 + 3) << "\n"; // 36
 ```
+
+## Navegación
+- [Anterior: Trabajando con numeros.md](./Trabajando%20con%20numeros.md)
+- [Siguiente: Matematicas.md](./Matematicas.md)

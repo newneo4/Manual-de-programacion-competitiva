@@ -55,3 +55,7 @@ if (array[k] == x) {
 ```
 
 Durante la búsqueda, la variable b contiene la longitud actual del salto. La complejidad temporal del algoritmo es O(log n), porque el código en el bucle while se ejecuta como máximo dos veces para cada longitud de salto.
+
+## Navegación
+- [Anterior: Ordenamiento en C++.md](./Ordenamiento%20en%20C%2B%2B.md)
+- [Siguiente: Funciones en C++.md](./Funciones%20en%20C%2B%2B.md)

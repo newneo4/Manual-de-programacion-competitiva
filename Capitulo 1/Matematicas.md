@@ -334,3 +334,7 @@ $$
 $$
 
 Por ejemplo, la representación de 123 en base 2 es 1111011 y $\left\lfloor \log_2(123) \right\rfloor + 1 = 7$.
+
+## Navegación
+- [Anterior: Acortando codigo.md](./Acortando%20codigo.md)
+- [Siguiente: Concursos y Recursos.md](./Concursos%20y%20Recursos.md)

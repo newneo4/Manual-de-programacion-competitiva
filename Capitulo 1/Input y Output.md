@@ -73,3 +73,7 @@ freopen("output.txt", "w", stdout);
 ```
 
 Después de esto, el programa lee la entrada del archivo "input.txt" y escribe la salida en el archivo "output.txt".
+
+## Navegación
+- [Anterior: Plantilla de codigo C++.md](./Plantilla%20de%20codigo%20C%2B%2B.md)
+- [Siguiente: Trabajando con numeros.md](./Trabajando%20con%20numeros.md)

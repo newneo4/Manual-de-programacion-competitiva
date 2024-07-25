@@ -9,3 +9,6 @@ El conocimiento teórico de algoritmos es importante para los programadores comp
 La implementación de algoritmos requiere buenas habilidades de programación. En la programación competitiva, las soluciones se califican probando un algoritmo implementado usando un conjunto de casos de prueba. Por lo tanto, no es suficiente que la idea del algoritmo sea correcta, sino que la implementación también debe ser correcta.
 
 Un buen estilo de codificación en concursos es directo y conciso. Los programas deben escribirse rápidamente, porque no hay mucho tiempo disponible. A diferencia de la ingeniería de software tradicional, los programas son cortos (usualmente, a lo sumo, unas pocas cientos de líneas de código) y no necesitan ser mantenidos después del concurso.
+
+## Navegación
+- [Siguiente: Lenguajes de programacion.md](./Lenguajes%20de%20programacion.md)

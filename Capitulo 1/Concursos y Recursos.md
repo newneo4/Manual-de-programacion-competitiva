@@ -43,3 +43,6 @@ Por supuesto, los libros generales sobre algoritmos también son adecuados para 
 - T. H. Cormen, C. E. Leiserson, R. L. Rivest y C. Stein: *Introduction to Algorithms*
 - J. Kleinberg y É. Tardos: *Algorithm Design*
 - S. S. Skiena: *The Algorithm Design Manual*
+
+## Navegación
+- [Anterior: Matematicas.md](./Matematicas.md)

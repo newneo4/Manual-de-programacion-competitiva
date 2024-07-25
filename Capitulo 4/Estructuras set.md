@@ -70,3 +70,7 @@ A menudo, solo se debe eliminar una instancia, lo cual se puede hacer de la sigu
 s.erase(s.find(5));
 cout << s.count(5) << "\n"; // 2
 ```
+
+## Navegación
+- [Anterior: Arreglos dinamicos.md](./Arreglos%20dinamicos.md)
+- [Siguiente: Estructuras map.md](./Estructuras%20map.md)

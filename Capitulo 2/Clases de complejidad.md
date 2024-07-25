@@ -23,3 +23,7 @@ La siguiente lista contiene las complejidades temporales comunes de los algoritm
 Un algoritmo es **polinómico** si su complejidad temporal es como máximo O(n^k), donde k es una constante. Todas las complejidades temporales anteriores, excepto O(2^n) y O(n!), son polinómicas. En la práctica, la constante k suele ser pequeña, por lo que una complejidad temporal polinómica significa que el algoritmo es eficiente.
 
 La mayoría de los algoritmos en este libro son polinómicos. Sin embargo, hay muchos problemas importantes para los cuales no se conoce ningún algoritmo polinómico, es decir, nadie sabe cómo resolverlos de manera eficiente. Los problemas NP-duros son un conjunto importante de problemas para los cuales no se conoce ningún algoritmo polinómico.
+
+## Navegación
+- [Anterior: Tiempo de complejidad.md](./Tiempo%20de%20complejidad.md)
+- [Siguiente: Estimacion de eficiencia.md](./Estimacion%20de%20eficiencia.md)

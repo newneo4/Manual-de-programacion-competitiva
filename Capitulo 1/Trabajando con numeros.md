@@ -85,3 +85,7 @@ if (abs(a - b) < 1e-9) {
 ```
 
 Ten en cuenta que, aunque los números de punto flotante son imprecisos, los enteros hasta un cierto límite aún se pueden representar con precisión. Por ejemplo, usando double, es posible representar con precisión todos los enteros cuyo valor absoluto es como máximo 2⁵³.
+
+## Navegación
+- [Anterior: Input y Output.md](./Input%20y%20Output.md)
+- [Siguiente: Acortando codigo.md](./Acortando%20codigo.md)

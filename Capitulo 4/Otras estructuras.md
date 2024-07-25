@@ -162,3 +162,7 @@ cout << s.order_of_key(8) << "\n"; // 3
 ```
 
 Ambas funciones trabajan en tiempo logarítmico.
+
+## Navegación
+- [Anterior: Iteradores y rangos.md](./Iteradores%20y%20rangos.md)
+- [Siguiente: Comparacion de ordenacion.md](./Comparacion%20de%20ordenacion.md)

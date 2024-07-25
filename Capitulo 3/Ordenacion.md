@@ -144,3 +144,6 @@ Por ejemplo, el valor en la posición 3 en el arreglo de contabilidad es 2, porq
 La construcción del arreglo de contabilidad toma un tiempo de O(n). Después de esto, el arreglo ordenado se puede crear en tiempo O(n) porque el número de ocurrencias de cada elemento se puede recuperar del arreglo de contabilidad. Por lo tanto, la complejidad total de tiempo de el ordenamiento por conteo es O(n).
 
 El ordenamiento por conteo es un algoritmo muy eficiente pero solo se puede usar cuando la constante c es lo suficientemente pequeña, de modo que los elementos del arreglo puedan usarse como índices en el arreglo de contabilidad.
+
+## Navegación
+- [Siguiente: Ordenamiento en C++.md](./Ordenamiento%20en%20C%2B%2B.md)
