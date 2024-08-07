@@ -34,3 +34,11 @@
 - [Iteradores y rangos](./Capitulo%204/Iteradores%20y%20rangos.md)
 - [Otras estructuras](./Capitulo%204/Otras%20estructuras.md)
 - [Comparación de ordenación](./Capitulo%204/Comparacion%20de%20ordenacion.md)
+
+## Capítulo 5
+
+- [Generando Subconjuntos](./Capitulo%205/Generando%20Subconjuntos.md)
+- [Generando Permutaciones](./Capitulo%205/Generando%20permutaciones.md)
+- [Backtracking](./Capitulo%205/Backtracking.md)
+- [Limitando la Búsqueda](./Capitulo%205/Limitando%20la%20busqueda.md)
+- [Dividir por el Medio](./Capitulo%205/Dividir%20por%20el%20medio.md)
