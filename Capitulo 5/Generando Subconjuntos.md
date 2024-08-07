@@ -64,4 +64,4 @@ for(int i = 0; i < (i<<b); i++){
 
 ## Navegación
 
-- [Siguiente: Generando Permutaciones.md](./Generando%20Permutaciones.md)
+- [Siguiente: Generando Permutaciones.md](./Generando%20permutaciones.md)
