@@ -49,4 +49,4 @@ Sea `q(n)` el número de formas de colocar *n* reinas en un tablero de ajedrez d
 ## Navegación
 
 - [Anterior: Generando Permutaciones.md](./Generando%20permutaciones.md)
-- [Siguiente: Pruning the Search.md](./Pruning%20the%20Search.md)
+- [Siguiente: Limitando la Busqueda.md](./Limitando%20la%20busqueda.md)
