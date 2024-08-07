@@ -68,4 +68,4 @@ Este es un fenómeno común en el backtracking, ya que el árbol de búsqueda su
 ## Navegación
 
 - [Anterior: Backtracking.md](./Backtracking.md)
-- [Siguiente: Meet in the Middle.md](./Meet%20in%20the%20Middle.md)
+- [Siguiente: Dividir por el medio.md](./Dividir%20por%20el%20medio.md)
