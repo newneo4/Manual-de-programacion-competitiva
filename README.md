@@ -8,6 +8,7 @@ Este repositorio contiene la traducción al español de un libro de referencia s
 - [Capítulo 2: Complejidad y Eficiencia](./Capitulo%202/Indice.md)
 - [Capítulo 3: Algoritmos y Técnicas](./Capitulo%203/Indice.md)
 - [Capítulo 4: Estructuras de Datos](./Capitulo%204/Indice.md)
+- [Capítulo 5: Busqueda completa](./Capitulo%205/Indice.md)
 
 ## Cómo Contribuir
 
