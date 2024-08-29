@@ -42,3 +42,12 @@
 - [Backtracking](./Capitulo%205/Backtracking.md)
 - [Limitando la Búsqueda](./Capitulo%205/Limitando%20la%20busqueda.md)
 - [Dividir por el Medio](./Capitulo%205/Dividir%20por%20el%20medio.md)
+
+## Capítulo 6
+
+- [Algoritmos Greedy](./Capitulo%206/Algoritmos%20Greedy.md)
+- [Problema de la moneda](./Capitulo%206/Problema%20de%20la%20moneda.md)
+- [Programacion de tareas](./Capitulo%206/Programacion.md)
+- [Tareas y plazos](./Capitulo%206/Tareas%20y%20plazos.md)
+- [Minimizando sumas](./Capitulo%206/Minimizando%20sumas.md)
+- [Compresión de datos](./Capitulo%206/Compresion%20de%20data.md)
