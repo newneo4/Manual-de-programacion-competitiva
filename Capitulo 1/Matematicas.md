@@ -91,9 +91,11 @@ kS - S = bk - a
 $$
 
 se obtiene la fórmula.
+
 $$
 1 + 2 + 4 + 8 + \cdots + 2^{n-1} = 2^n - 1
 $$
+
 ## Casos Especiales y Estimaciones de Sumatorias
 
 ### Progresión Geométrica Especial
